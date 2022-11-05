@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "586700260005",
+    "firebase_url": "https://mycha-6b6c1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mycha-6b6c1",
+    "storage_bucket": "mycha-6b6c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586700260005:android:ffab79d97f34ca03cbc34c",
+        "android_client_info": {
+          "package_name": "com.example.fbchat3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586700260005-l0282hv3ulrkgobpfgfpipbcuot33cqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fbchat3",
+            "certificate_hash": "1908e1c1e44109cfc7459800470c137a329a1510"
+          }
+        },
+        {
+          "client_id": "586700260005-ebm7up5ns8klmcvhfditfqhtlo8e62ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjx7TCNTFpERSUmE54uk2sEb0powNp9-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586700260005-ebm7up5ns8klmcvhfditfqhtlo8e62ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
